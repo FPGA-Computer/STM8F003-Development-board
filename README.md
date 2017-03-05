@@ -2,7 +2,7 @@ This is a quick and dirty STM8F003 development board.
 
 Initial PCB release - first layout/non-tested
 
-Eagle CAD files and Sketch3D model
+PCB/ Eagle CAD files and Sketch3D model
 
 Hackaday project page is at 
 https://hackaday.io/project/18286-misc-8-bit-uc-projects/log/54286-stm8-breakout-board-with-usb-serial
