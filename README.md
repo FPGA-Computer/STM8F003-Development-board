@@ -4,8 +4,8 @@ Initial PCB release - first layout/non-tested
 
 PCB/ Eagle CAD files and Sketch3D model
 
-Hackaday project page is at 
-https://hackaday.io/project/18286-misc-8-bit-uc-projects/log/54286-stm8-breakout-board-with-usb-serial
+Project page is at 
+http://hw-by-design.blogspot.com/2018/07/stm8-breakout-board-with-usb-serial.html
 
 This work is licensed under a 
 Attribution 4.0 International (CC BY 4.0)
